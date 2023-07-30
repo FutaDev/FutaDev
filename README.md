@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FutaDev
 - 👀 I’m interested in fullstack web dev
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on opene source projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me dariusfutta@gmail.com
 
 <!---
